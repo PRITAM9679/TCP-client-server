@@ -4,5 +4,17 @@ Sockets and the socket API are used to send messages across a network. They prov
 <h3> Open a terminal window and navigate to the folder containing the scripts.</h3>
 <img height = 100 width=1000 src = "https://github.com/PRITAM9679/Python-programming/blob/main/index1.png">
 <br>
-<h3>The terminal will appear to hang as we there is no connections active now only the server is running<br><br></h3>
+The terminal will appear to hang as we there is no connections active now only the server is running<br><br>
  Now, run the echo-client script in another terminal,
+ <img height=100 width = 1000 src="https://github.com/PRITAM9679/Python-programming/blob/main/index.png">
+ Now in the echo-server window, 
+ <img height=100 width = 1000 src="https://github.com/PRITAM9679/Python-programming/blob/main/index2.png">
+ 
+<br><br>
+So these will be the outputs of the files.
+If you are doing in linux insted of './' use <br>
+  python server.py
+  python client.py
+  
+
+
