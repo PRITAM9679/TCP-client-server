@@ -1,4 +1,4 @@
-# Socket-programming
+# TCP CLient-Server
 Sockets and the socket API are used to send messages across a network. They provide a form of inter process communication. The network can be a logical, local network to the computer, or one that’s physically connected to an external network, with its own connections to other networks.
 <hr><br>
 <h3> Open a terminal window and navigate to the folder containing the scripts.</h3>
@@ -15,6 +15,8 @@ So these will be the outputs of the files.
 If you are doing in linux insted of './' use <br>
   python server.py<br>
   python client.py
-  
+ <br><br>
+
+ You can view this blog  - 
 
 
