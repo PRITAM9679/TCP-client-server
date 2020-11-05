@@ -17,7 +17,7 @@ If you are doing in linux insted of './' use <br>
   python client.py
  <br><br>
 
- You can view this blog  - https://hkingtutorials.blogspot.com/
+ You can view this blog  - https://hkingtutorials.blogspot.com/ <br>
  Also my youtube channel - https://www.youtube.com/channel/UCVVCjPlGlfIqfCcd--JEiog
 
 
